@@ -1,1 +1,1 @@
-# Teoria-DSM
+# Ejercicios de Teoria
